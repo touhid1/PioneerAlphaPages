@@ -2,13 +2,11 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "./Header.css";
-import logo from '../../Img/logo.png';
-import logo2 from '../../Img/Ellipse 1.png';
-import logo3 from '../../Img/Layer 4.png';
+import logo from '../../../Img/logo.png';
+import logo2 from '../../../Img/Ellipse 1.png';
+import logo3 from '../../../Img/Layer 4.png';
+import logo1 from '../../../Img/Layer 5.png';
 
-import logo1 from '../../Img/Layer 5.png';
-
-import { Button } from "react-bootstrap";
 
 const Header = () => {
   return (

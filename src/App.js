@@ -12,14 +12,16 @@ import About from './components/About/About';
 import Choose from './components/Choose/Choose';
 import Footer from './components/shared/Navbar/Footer/Footer';
 import Header from './components/shared/Navbar/Header';
+import Messenger from './components/Messenger/Messenger';
 function App() {
   return (
     <Router>
-    <Switch>
     <Header/>
+    <Switch>
       <Route path="/">
         <Home/>
         <About/>
+        <Messenger/>
         <Choose/>
         <Features/>
         <Subscribe/>

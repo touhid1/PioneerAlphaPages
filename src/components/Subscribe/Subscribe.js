@@ -13,10 +13,9 @@ const Subscribe = () => {
                 <div className="col-md-6 col-sm-12">
                     <div className="d-flex justify-content-between formData">
                         <input
-                            placeholder="Enter your mail address"
+                            placeholder="Enter your mail "
                             className="form-control py-4"
                             type="email"
-
                         />
                         <button className="btn btn-secondary text-uppercase text-light">Subscribe</button>
                     </div>

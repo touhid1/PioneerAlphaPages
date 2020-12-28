@@ -49,10 +49,9 @@ function Footer() {
           </div>
         </div>
         <hr />
-        <div className="row">
-          <p className="col-sm">
-            &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
-            www.amariSchool.com
+        <div className="row container">
+          <p className="col-sm ">
+            &copy;{new Date().getFullYear()}  www.amariSchool.com | All rights reserved |
           </p>
         </div>
       </div>
