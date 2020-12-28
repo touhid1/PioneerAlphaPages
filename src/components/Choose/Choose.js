@@ -9,8 +9,8 @@ const Choose = () => {
             <div className="styled-div"> </div>
             <div className="d-flex justify-content-around">
                 <div className="text-center">
-                    <CountUp className="text-muted" style={{ fontWeight: "700", fontSize: "55px" }} start={0} end={1080} duration={10} />
-                    <p className="text-uppercase">Learners</p>
+                <CountUp className="text-muted" style={{ fontWeight: "700", fontSize: "55px" }} start={0} end={1080} duration={10} />
+                <p className="text-uppercase">Learners</p>
                 </div>
                 <div className="text-center">
                 <CountUp className="text-muted" style={{ fontWeight: "700", fontSize: "55px" }} end={50} duration={12} />                    

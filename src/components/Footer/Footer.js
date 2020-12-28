@@ -52,7 +52,7 @@ function Footer() {
         <div className="row">
           <p className="col-sm">
             &copy;{new Date().getFullYear()} THICC MEMES | All rights reserved |
-            Terms Of Service | Privacy
+            www.amariSchool.com
           </p>
         </div>
       </div>
